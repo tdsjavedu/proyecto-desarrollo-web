@@ -4,7 +4,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import { LinkContainer } from 'react-router-bootstrap';
 
 
-
+// Componente para el menu de navegacion
 function Menu() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
